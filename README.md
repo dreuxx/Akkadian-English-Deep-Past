@@ -77,7 +77,7 @@ Phase 2 uses a lower LR (`1e-5`) to reduce catastrophic forgetting of pretrainin
 
 - Split: `90/10` random split (`seed=42`) per phase dataset
 - Checkpoint selection in Phase 2: `eval_loss`
-- Reported metrics: BLEU, chrF++, and geometric mean `sqrt(BLEU * chrF++)` = 'LB: 37.3'
+- Reported metrics: BLEU, chrF++, and geometric mean `sqrt(BLEU * chrF++)` = `LB = 37.3`
 
 ## What Worked Best
 
