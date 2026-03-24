@@ -207,6 +207,3 @@ git config user.name "Tu Nombre"
 git config user.email "tu@email o id+username@users.noreply.github.com"
 git commit --amend --reset-author --no-edit
 ```
-=======
-# Akkadian-English-Deep-Past-
->>>>>>> origin/main
