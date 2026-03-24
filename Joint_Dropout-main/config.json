@@ -1,0 +1,11 @@
+{
+  "src_file": "data/input/train.akk",
+  "trg_file": "data/input/train.en",
+  "alignments_file": "data/output/akk-en.sym",
+  "output_src": "data/output/output_src.txt",
+  "output_trg": "data/output/output_trg.txt",
+  "bpe_vocab_file": "data/input/bpe_vocab.txt",
+  "vardrop": 0.3,
+  "length": 1,
+  "max_vocab": 2000
+}
